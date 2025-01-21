@@ -1,3 +1,6 @@
 [submodule "learning-cxx"]
 	path = learning-cxx
 	url = https://github.com/Nothin-m/learning-cxx.git
+[submodule "hpc2torch"]
+	path = hpc2torch
+	url = https://github.com/Nothin-m/hpc2torch.git
