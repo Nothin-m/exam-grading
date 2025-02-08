@@ -4,3 +4,6 @@
 [submodule "hpc2torch"]
 	path = hpc2torch
 	url = https://github.com/Nothin-m/hpc2torch.git
+[submodule "Rustlings"]
+	path = Rustlings
+	url = https://github.com/Nothin-m/Rustlings.git
