@@ -7,3 +7,6 @@
 [submodule "Rustlings"]
 	path = Rustlings
 	url = https://github.com/Nothin-m/Rustlings.git
+[submodule "rustlings"]
+	path = rustlings
+	url = https://github.com/Nothin-m/Rustlings.git
